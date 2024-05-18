@@ -12,3 +12,7 @@ body {
 div {
   font-size: 80vmin;
 }
+
+img {
+  width: 300px;
+}
